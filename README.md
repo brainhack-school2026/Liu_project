@@ -1,10 +1,4 @@
-# Liu_project
-Isaac Liu's BHS project
+# Classifying ASD and TD using the ABIDE dataset and Functional Connectivity
+[@Isaac Liu](https://github.com/isaac-fengwei-liu) & [@Arshdeep Panesar](https://github.com/Ninja2656)
 
-Hi! I'm a Master of Cognitive Science student at Carleton University.
-
-<a href="https://github.com/lunebellec">
-  <img src="https://avatars.githubusercontent.com/u/171060057?v=4?s=100" width="100px;" alt=""/>
-  <br /><sub><b>Fengwei Liu</b></sub>
-</a>
-
+ABIDE is a multi-site preprocessed dataset consisted of rs-fMRI scans from ASD and TD individuals, 500 in each group. We will use the Functional Connectivity matrix to predict individual's diagnostic group. We will explore ML techniques such as Ridge Regression and SVC.
