@@ -1,10 +1,10 @@
 ---
-type: project 
+type: project
 date: 2026-06-12
 title: Classifying Autism Spectrum Disorder Using Functional Brain Connectivity
 names:
-  - [Issac Liu]
-  - [Arshdeep]
+  - Issac Liu
+  - Arshdeep
 github_repo: https://github.com/brainhack-school2026/ASD_Classification
 tags:
   - ASD
@@ -12,12 +12,11 @@ tags:
   - functional connectivity
   - machine learning
   - ABIDE
-summary: This project uses resting-state fMRI data from the ABIDE dataset to 
-  classify individuals with Autism Spectrum Disorder (ASD) from typically 
-  developing (TD) controls using functional brain connectivity features and 
-  machine learning classifiers.
-image:
-need to add 
+summary: >
+  This project uses resting-state fMRI data from the ABIDE dataset to classify
+  individuals with Autism Spectrum Disorder (ASD) from typically developing (TD)
+  controls using functional brain connectivity features and machine learning classifiers.
+image: images/fmri-autism.jpg
 ---
 
 ## Project Definition
