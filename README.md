@@ -16,7 +16,7 @@ summary: >
   This project uses resting-state fMRI data from the ABIDE dataset to classify
   individuals with Autism Spectrum Disorder (ASD) from typically developing (TD)
   controls using functional brain connectivity features and machine learning classifiers.
-image: ![Illustration of fMRI autism connectivity](fmri-autism.jpg)
+image: fmri-autism.jpg
 ---
 
 ## Project Definition
